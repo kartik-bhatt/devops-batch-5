@@ -1,3 +1,10 @@
 this is feature 2
 
 update
+<<<<<<< HEAD
+
+agani update.
+
+updAte
+=======
+>>>>>>> parent of 1539160 (Feature 2)
